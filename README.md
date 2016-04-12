@@ -1,5 +1,5 @@
 ## LCA Applications analysis
-`h1b.ipynb` used for blogpost. 
+Load `h1b.ipynb` for basic statistics on LCA Applications submitted for FY2016. Applications for Visas like H1B, H1-B1, E-3 and PERM require a LCA application, which is disclosed periodically by OFLC.  Related [blogpost](http://ashwinikhare.in/tech-firms-guest-visa/)
 
 ### Data
 To get the data:
